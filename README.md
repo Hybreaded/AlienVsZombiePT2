@@ -1,6 +1,7 @@
 # Alien vs. Zombie
 
 Please introduce the game here.
+The game we've made is a kind of board game where an Alien (the user) has to move around the board to fend itself off multiple zombies (enemies) in order to win the game.
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
