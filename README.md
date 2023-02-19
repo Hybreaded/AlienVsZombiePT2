@@ -13,7 +13,8 @@ Provide instructions on how to compile your program, especially when it is non-t
 For example:
 
 ```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
+g++ main.cpp pf/helper.cpp pf/setting.cpp pf/gboard.cpp pf/stat.cpp pf/object.cpp pf/gameplay1.cpp pf/gameplay2.cpp -o try
+
 ```
 
 ## User Manual
