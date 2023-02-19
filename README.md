@@ -4,7 +4,7 @@ Please introduce the game here.
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+Please provide the YouTube link to your [Video](https://www.youtube.com/watch?v=p2-_aTXVEeg).
 
 ## Compilation Instructions
 
@@ -32,8 +32,7 @@ Please DO NOT change the Progress Log below. Leave it as it is.
 
 Please replace the following with your group members' names. 
 
-- Tony Stark
-- Steve Rogers
-- Dr. Strange
+- Koh Tom Han
+- Ku Ming Hin
 
 
